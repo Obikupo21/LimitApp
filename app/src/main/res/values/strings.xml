@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LimitApp</string>
+    <string name="accessibility_description">LimitApp detecta cuándo abres una de las apps que has elegido limitar y te pide resolver un acertijo matemático antes de usarla. No lee ni guarda el contenido de la pantalla.</string>
+</resources>

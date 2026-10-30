@@ -1,0 +1,13 @@
+.gradle/
+.kotlin/
+build/
+local.properties
+.idea/
+*.iml
+# Clave de firma: NUNCA subir al repositorio
+firma/
+*.jks
+*.keystore
+keystore.properties
+# Los APK se publican en GitHub Releases
+*.apk

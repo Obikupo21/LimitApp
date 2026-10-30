@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Candado con un signo "+" : bloqueo + matemáticas. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="6"
+        android:pathData="M42,50 L42,42 A12,12 0 0,1 66,42 L66,50" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,50 L72,50 A4,4 0 0,1 76,54 L76,76 A4,4 0 0,1 72,80 L36,80 A4,4 0 0,1 32,76 L32,54 A4,4 0 0,1 36,50 Z" />
+    <path
+        android:fillColor="#3949AB"
+        android:pathData="M51,57 L57,57 L57,62 L62,62 L62,68 L57,68 L57,73 L51,73 L51,68 L46,68 L46,62 L51,62 Z" />
+</vector>
